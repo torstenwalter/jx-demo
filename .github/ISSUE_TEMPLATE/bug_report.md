@@ -1,38 +1,43 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[chart name e.g. stable/abc]"
-labels: ''
-assignees: ''
+
+title: "[name of the chart e.g. stable/chartname or incubator/chartname] title"
+
+---
+<!-- Thanks for filing an issue! Before hitting the button, please answer these questions. It's helpful to search the existing GitHub issues first. It's likely that another user has already reported the issue you're facing, or it's a known issue that we're already aware of-->
+
+**Is this a request for help?**:
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Is this a BUG REPORT or FEATURE REQUEST?** (choose one):
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+<!--
+If this is a BUG REPORT, please:
+  - Fill in as much of the template below as you can.  If you leave out
+    information, we can't help you as well.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+If this is a FEATURE REQUEST, please:
+  - Describe *in detail* the feature/behavior/change you'd like to see.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+In both cases, be ready for followup questions, and please respond in a timely
+manner.  If we can't reproduce a bug or think a feature already exists, we
+might close your issue.  If we're wrong, PLEASE feel free to reopen it and
+explain why.
+-->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Version of Helm and Kubernetes**:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Which chart**:
+
+
+**What happened**:
+
+
+**What you expected to happen**:
+
+
+**How to reproduce it** (as minimally and precisely as possible):
+
+
+**Anything else we need to know**:
