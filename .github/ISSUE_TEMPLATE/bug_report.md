@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: '[stable/chartname or incubator/chartname] title'
+title: '[name of the chart e.g. stable/chart] issue title'
 labels: ''
 assignees: ''
 

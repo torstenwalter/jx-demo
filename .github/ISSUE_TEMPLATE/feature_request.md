@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: '[stable/chartname or incubator/chartname] title'
+title: '[name of the chart e.g. stable/chart] issue title'
 labels: ''
 assignees: ''
 
